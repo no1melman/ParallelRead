@@ -1,0 +1,6 @@
+c:\users\callum.linington\documents\visual studio 2015\TrashProjects\ParallelRead\ParallelRead\bin\Debug\ParallelRead.exe.config
+c:\users\callum.linington\documents\visual studio 2015\TrashProjects\ParallelRead\ParallelRead\bin\Debug\ParallelRead.exe
+c:\users\callum.linington\documents\visual studio 2015\TrashProjects\ParallelRead\ParallelRead\bin\Debug\ParallelRead.pdb
+c:\users\callum.linington\documents\visual studio 2015\TrashProjects\ParallelRead\ParallelRead\obj\Debug\ParallelRead.csprojResolveAssemblyReference.cache
+c:\users\callum.linington\documents\visual studio 2015\TrashProjects\ParallelRead\ParallelRead\obj\Debug\ParallelRead.exe
+c:\users\callum.linington\documents\visual studio 2015\TrashProjects\ParallelRead\ParallelRead\obj\Debug\ParallelRead.pdb
